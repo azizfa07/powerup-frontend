@@ -1,0 +1,11 @@
+#background {
+    background-image: url(./assets/Background.svg);
+    background-color: #171A1C;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#bg-card {
+    background-color: rgba(23, 26, 28, 0.72);
+}
+
