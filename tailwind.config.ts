@@ -10,6 +10,29 @@ const config = {
 	],
   prefix: "",
   theme: {
+    screens: {
+      '-2xl': { max: '1535px' },
+      '-xl': { max: '1279px' },
+      '-lg': { max: '1023px' },
+      '-md': { max: '767px' },
+      '-sm': { max: '639px' },
+      '@md': { min: '640px', max: '767px' },
+      '@lg': { min: '768px', max: '1023px' },
+      '@xl': { min: '1024px', max: '1279px' },
+      '@2xl': { min: '1280px', max: '1535px' },
+    },
+    listStyleType: {
+      none: 'none',
+      disc: 'disc',
+      decimal: 'decimal',
+    },
+    borderWidth: {
+      DEFAULT: '1px',
+      '0': '0',
+      '2': '2px',
+      'custom': '2.5px',
+      '3': '3px', 
+    },
     container: {
       center: true,
       padding: "2rem",
@@ -18,6 +41,12 @@ const config = {
       },
     },
     extend: {
+      height: {
+        'custom': '2.5px',
+      },
+      padding: {
+        '4px': '4px',
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -52,6 +81,19 @@ const config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        customBackground: "#171A1C",
+        customPrimary: "#386EDC",
+        customSecondary: "#20242D",
+        customLineNavBar: "#20242D",
+        'primaryTextHover': '#5E89E2',
+        'primaryTextActive': '#386EDC',
+        'headingText': '#FFFFFF',
+        'bodyText': '#DFE4F1',
+        'inactiveText': '#808080',
+        'secondaryText': '#C7C7C7',
+        'stroke': '#303745',
+        'cardPayment': '#191D24',
+        'cardButtonPaymentMethod': '#c7c7c7',
       },
       borderRadius: {
         lg: "var(--radius)",
@@ -74,7 +116,7 @@ const config = {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [require("tailwindcss-animate")], 
 } satisfies Config
 
 export default config 

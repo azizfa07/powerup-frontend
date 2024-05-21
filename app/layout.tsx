@@ -1,8 +1,17 @@
+import Image from "next/image";
+import Logo from "./component-home/assets/Logomark.svg";
+import { Button } from "@/components/ui/button";
+import SearchBar from "./component-home/searchBar";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const plusJakartaSans = Plus_Jakarta_Sans({
+  subsets: ["latin"],
+  display: "swap",
+  weight: ["200", "300", "400", "500", "600", "700"],
+  variable: "--font-plus-jakarta-sans",
+});
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -16,7 +25,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body style={plusJakartaSans.style} className="bg-customBackground">
+        {children}
+      </body>
     </html>
   );
 }

@@ -1,0 +1,36 @@
+ul {
+    display: flex;
+    position: relative;
+    align-items: center;
+    margin-top: 10px;
+}
+
+li {
+    list-style: none;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+li a::after {
+    content: '';
+    width: 0;
+    height: 2px;
+    background-color: #5E89E2;
+    margin: auto;
+    display: block;
+    margin-top: 9px;
+    border-radius: 5px;
+
+}
+
+li a:focus::after {
+    width: 60%;
+}
+
+#spacing {
+    word-spacing: 2px;
+}
+
+
+
+

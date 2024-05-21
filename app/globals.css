@@ -1,9 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
- 
+
 @layer base {
+  ul, ol {
+    list-style: revert;
+  }
+
   :root {
+
+    --customPrimary: #386EDC;
+    --customSecondary: #20242D;
+    --customBackground: #171A1C;
+    --customLineNavBar: #20242D;
+    --primaryTextHover: #5E89E2;
+    --primaryTextActive: #386EDC;
+    --secondaryText: #C7C7C7;
+    --stroke: #303745;
+    --cardPayment: #191D24;
+    --headingText: #FFFFFF;
+    --bodyText: #DFE4F1;
+    --inactiveText: #808080;
+    --cardButtonPaymentMethod: #c7c7c7;
+
     --background: 0 0% 100%;
     --foreground: 224 71.4% 4.1%;
 
@@ -66,10 +85,7 @@
   }
 }
  
-
-
-#background {
-  background-color: #171A1C;
+.plus_jakarta_sans {
+  font-family: var(--font-plus_jakarta_sans);
 }
-
 
