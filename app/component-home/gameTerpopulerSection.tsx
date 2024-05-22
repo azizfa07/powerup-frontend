@@ -18,7 +18,7 @@ export default function GameTerpopulerSection() {
           Top Up Item di Game Favoritmu!
         </p>
         <div className="flex flex-start content-start flex-wrap gap-x-5 gap-y-[11px]">
-          <a>
+          <a href="../mobile-legends">
             <div className="w-[340px] h-[180px] relative">
               <h1 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 mt-[47px] text-white font-bold tracking-wide text-md">
                 Mobile Legends

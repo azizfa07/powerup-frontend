@@ -12,7 +12,7 @@ export default function CheckOutSection() {
                 0 Diamonds (0 + 0 Bonus),<span>Qris</span>
               </span>
             </div>
-            <a href="./pembayaran">
+            <a href="../mobile-legends/pembayaran">
             <Button className="w-[180px] h-[47px] bg-customPrimary hover:bg-primaryTextActive hover:opacity-80 text-base font-semibold">
               Beli Sekarang
             </Button>

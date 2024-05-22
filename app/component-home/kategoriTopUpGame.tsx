@@ -40,7 +40,7 @@ export default function KategoriTopUpGame() {
 
         <div className="grid grid-cols-7 gap-5">
           <a href="../mobile-legends">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={MobileLegends} alt="" />
@@ -51,7 +51,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={PUBG} alt="" />
@@ -62,7 +62,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={LeagueOfLegends} alt="" />
@@ -73,7 +73,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={Growtopia} alt="" />
@@ -84,7 +84,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={RagnarokX} alt="" />
@@ -95,7 +95,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={MarvelSnap} alt="" />
@@ -106,7 +106,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={CallOfDuty} alt="" />
@@ -117,7 +117,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={FreeFire} alt="" />
@@ -128,7 +128,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={GarenaUndawn} alt="" />
@@ -139,7 +139,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={BlackCloverM} alt="" />
@@ -150,7 +150,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={SpeedDrifters} alt="" />
@@ -161,7 +161,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={ArenaOfValor} alt="" />
@@ -172,7 +172,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={GenshinImpact} alt="" />
@@ -183,7 +183,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={ClashOfClans} alt="" />
@@ -194,7 +194,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={HayDay} alt="" />
@@ -205,7 +205,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={BrawlStars} alt="" />
@@ -216,7 +216,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={ClashRoyale} alt="" />
@@ -227,7 +227,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={HonkaiStarRail} alt="" />
@@ -238,7 +238,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={EggyParty} alt="" />
@@ -249,7 +249,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={Valorant} alt="" />
@@ -260,7 +260,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={Farlight84} alt="" />
@@ -271,7 +271,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={HyperFrost} alt="" />
@@ -282,7 +282,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={PointBlank} alt="" />
@@ -293,7 +293,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={MarvelSuperWar} alt="" />
@@ -304,7 +304,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={AutoChess} alt="" />
@@ -315,7 +315,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={SausageMan} alt="" />
@@ -326,7 +326,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={BallPool8} alt="" />
@@ -337,7 +337,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={SuperSus} alt="" />
@@ -348,7 +348,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={Hago} alt="" />
@@ -359,7 +359,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={TopEleven} alt="" />
@@ -370,7 +370,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={TopEleven} alt="" />
@@ -381,7 +381,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={TopEleven} alt="" />
@@ -392,7 +392,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={TopEleven} alt="" />
@@ -403,7 +403,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={TopEleven} alt="" />
@@ -414,7 +414,7 @@ export default function KategoriTopUpGame() {
             </div>
           </a>
           <a href="#">
-            <div className="w-[133px] h-[188px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
+            <div className="w-[133px] h-[180px] bg-customSecondary rounded-xl outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary">
               <div className="p-[12px] size-[135px]> mb-1">
                 {" "}
                 <Image src={TopEleven} alt="" />
