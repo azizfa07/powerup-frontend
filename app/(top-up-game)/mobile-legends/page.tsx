@@ -16,7 +16,7 @@ export default function TopUpGame() {
       <Navbar />
       <CheckOutSection />
       <div className="mx-36">
-        <Image src={Banner} alt="Game Banner" className="pt-[96px] mt-11" />
+        <Image src={Banner} alt="Game Banner" className="pt-[70px] mt-11" />
         <div className=" flex justify-between">
           <DetilProduct />
           {/* komponen product data selection, payment method, email section dipanggil di file FormDataInput */}

@@ -12,28 +12,22 @@ import "./globals.css";
 export default function Home() {
   return (
     <>
-      <body className="bg-customBackground">
-        <header>
-          <Navbar />
-        </header>
-        <section>
-          <Banner />
-          <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
-          <PromoSection />
-          <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
-          <GameTerpopulerSection />
-          <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
-          <PilihKategori />
-          <KategoriTopUpGame />
-          <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
-          <PowerUpStoreBenefits />
-          <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
-          <FAQsSection />
-        </section>
-        <footer>
-          <Footer />
-        </footer>
-      </body>
+      <Navbar />
+
+      <Banner />
+      <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
+      <PromoSection />
+      <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
+      <GameTerpopulerSection />
+      <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
+      <PilihKategori />
+      <KategoriTopUpGame />
+      <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
+      <PowerUpStoreBenefits />
+      <hr className="my-10 border-[1px] w-[800px] flex items-center mx-auto border-customSecondary -sm:w-[255px] -sm:mx-7 -sm:my-5"></hr>
+      <FAQsSection />
+
+      <Footer />
     </>
   );
 }

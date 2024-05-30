@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function ProductDataSelection() {
   return (
     <>
-      <div className="bg-customSecondary w-[599px] h-auto pb-[3px] rounded-xl mt-8">
+      <section className="bg-customSecondary w-[599px] h-auto pb-[3px] rounded-xl mt-8">
         <div className="bg-customPrimary rounded-full w-[50px] h-[50px] absolute -mt-3 ml-6 border-[6px] border-customSecondary">
           <h1 className="text-center text-white text-l absolute left-0 right-0 top-[6px] font-semibold">
             2
@@ -83,7 +83,7 @@ export default function ProductDataSelection() {
             </Button>
           </div>
         </div>
-      </div>
+      </section>
     </>
   );
 }

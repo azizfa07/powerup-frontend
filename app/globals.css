@@ -8,6 +8,7 @@
   }
 
   :root {
+    background-color: #171A1C;
 
     --customPrimary: #386EDC;
     --customSecondary: #20242D;
@@ -15,13 +16,15 @@
     --customLineNavBar: #20242D;
     --primaryTextHover: #5E89E2;
     --primaryTextActive: #386EDC;
+    --cardButtonPaymentMethod: #c7c7c7;
     --secondaryText: #C7C7C7;
     --stroke: #303745;
     --cardPayment: #191D24;
     --headingText: #FFFFFF;
     --bodyText: #DFE4F1;
     --inactiveText: #808080;
-    --cardButtonPaymentMethod: #c7c7c7;
+    --sucessText: #0DE172;
+    --tertiary: #77797C;
 
     --background: 0 0% 100%;
     --foreground: 224 71.4% 4.1%;

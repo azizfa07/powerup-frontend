@@ -70,7 +70,7 @@ export default function Daftarakun() {
         <span className="text-center text-white">
           <p>
             Sudah punya akun?{" "}
-            <a className="text-[#386EDC]" href="/login">
+            <a className="text-[#386EDC] pl-1" href="/login">
               Masuk
             </a>
           </p>

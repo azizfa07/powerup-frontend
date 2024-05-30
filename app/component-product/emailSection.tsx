@@ -1,7 +1,7 @@
 export default function EmailSection() {
   return (
     <>
-      <div className="mt-8">
+      <section className="mt-8">
         <div className="bg-customSecondary w-[599px] h-auto pb-2 rounded-xl">
           <div className="bg-customPrimary rounded-full w-[50px] h-[50px] absolute -mt-3 ml-6 border-[6px] border-customSecondary">
             <h1 className="text-center text-white text-l absolute left-0 right-0 top-[6px] font-semibold">
@@ -23,7 +23,7 @@ export default function EmailSection() {
             <h1 className="text-white text-xs font-extralight mb-2 mt-2">Kamu bisa isi jika mau terima bukti transaksi</h1>
           </div>
         </div>
-      </div>
+      </section>
     </>
   );
 }

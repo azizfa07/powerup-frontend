@@ -7,7 +7,7 @@ import Image from "next/image";
 export default function FormDataInput() {
   return (
     <>
-      <div className="mt-11">
+      <section className="mt-11">
         <div className="bg-customSecondary w-[599px] h-[138px] rounded-xl">
           <div className="bg-customPrimary rounded-full w-[50px] h-[50px] absolute -mt-3 ml-6 border-[6px] border-customSecondary">
             <h1 className="text-center text-white text-l absolute left-0 right-0 top-[6px] font-semibold">
@@ -37,7 +37,7 @@ export default function FormDataInput() {
         <ProductDataSelection />
         <PaymentMethod/>
         <EmailSection />
-      </div>
+      </section>
     </>
   );
 }

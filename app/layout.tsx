@@ -1,7 +1,3 @@
-import Image from "next/image";
-import Logo from "./component-home/assets/Logomark.svg";
-import { Button } from "@/components/ui/button";
-import SearchBar from "./component-home/searchBar";
 import type { Metadata } from "next";
 import { Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";

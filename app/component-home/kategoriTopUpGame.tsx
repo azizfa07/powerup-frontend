@@ -33,10 +33,7 @@ import CallOfDuty from "./assets/PowerUp - UI - DaftarGame/Rectangle 727.svg";
 export default function KategoriTopUpGame() {
   return (
     <>
-      <div className="mx-36">
-        <h3 className="text-white text-2xl font-bold pb-[32px]">
-          Top Up Game 🎮
-        </h3>
+      <div className="mx-36"> 
 
         <div className="grid grid-cols-7 gap-5">
           <a href="../mobile-legends">

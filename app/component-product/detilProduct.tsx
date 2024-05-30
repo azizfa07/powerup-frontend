@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function DetailProduct() {
   return (
     <>
-      <div>
+      <section>
         <div className="bg-customSecondary w-[435px] h-auto mt-11 rounded-xl ">
           <div className="mx-6 my-6 py-6">
             <div className="flex justify-between w-[390px]">
@@ -53,7 +53,7 @@ export default function DetailProduct() {
             </p>
           </div>
         </div>
-      </div>
+      </section>
     </>
   );
 }

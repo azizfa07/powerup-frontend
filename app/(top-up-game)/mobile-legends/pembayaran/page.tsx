@@ -7,7 +7,7 @@ export default function () {
     return(
         <>
         <Navbar />
-        <div className="flex justify-between mx-36 mt-24">
+        <div className="flex justify-between mx-36 mt-[70px]">
             <PaymentInstruction />
             <PaymentDetail />
         </div>

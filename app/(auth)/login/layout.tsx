@@ -15,7 +15,7 @@ export default function Layout({
     <div style={plusJakartaSans.style} className="text-xs" id="background">
       <div className="flex flex-column justify-center items-center h-screen">
         <div
-          className="bg-[#171A1C] p-12 rounded-lg w-96  backdrop-blur-md"
+          className="bg-[#171A1C] p-14 rounded-lg w-[420px] -sm:max-w-[360px] backdrop-blur-md"
           id="bg-card"
         >
           <div className="flex flex-col space-y-1">

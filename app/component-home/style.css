@@ -11,6 +11,10 @@ li {
     margin-right: 20px;
 }
 
+li a:hover {
+    color: #5E89E2;
+}
+
 li a::after {
     content: '';
     width: 0;

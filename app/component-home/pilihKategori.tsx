@@ -3,12 +3,14 @@ import { Button } from "@/components/ui/button";
 export default function PilihKategori() {
   return (
     <>
-      <div className="mx-36 text-white pb-[50px]">
+      <div className="mx-36 text-white pb-6">
         <div>
-          <h3 className="text-2xl font-bold pb-3">Pilih kategori</h3>
-          <p className="text-sm">
-            Berbagai Macam pilihan top up yang lengkap!
-          </p>{" "}
+          <h3 className="text-2xl font-bold pb-3">Pilih Berbagai Kategori Game! 🎮</h3>
+          <p className=" text-sm font-normal text-bodyText pr-72">
+            Kami memahami bahwa setiap gamer memiliki preferensi unik, sehingga
+            kami menyediakan berbagai <br /> kategori game untuk memenuhi semua
+            kebutuhan gaming Anda.
+          </p>
           <br />
         </div>
         <div className="flex flex-row gap-x-4 bg-transparent">

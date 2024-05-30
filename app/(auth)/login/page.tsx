@@ -75,16 +75,16 @@ export default function Login() {
           className=" bg-white text-white w-full rounded-md bg-transparent hover:bg-[#C7C7C7] items-center flex flex-row flex-nowrap"
         >
           <Image src={logo} alt="logo" className="size-5 mr-2" />
-          Masuk dengan Google
+          <h1 className="font-thin text-xs">Masuk dengan Google</h1>
         </Button>
       </div>
 
       <br />
       <div>
         <span className="text-center text-white">
-          <p>
+          <p className="font-light">
             Belum memiliki akun?{" "}
-            <a className="text-[#386EDC]" href="./../register">
+            <a className="text-[#386EDC] pl-1" href="./../register">
               Daftar Sekarang
             </a>
           </p>

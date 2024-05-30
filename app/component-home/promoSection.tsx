@@ -11,117 +11,162 @@ import GenshinImpact from "./assets/PowerUp - UI - PromoTopUp/Upscales 1.svg";
 export default function PromoSection() {
   return (
     <>
-      <div className="mx-36 -sm:mx-7">
-        <h3 className="text-white text-2xl font-semibold pb-6 -sm:text-lg">
+      <div className="mx-36 -md:mx-14 -lg:mx-16 -xl:mx-20">
+        <h3 className="text-white text-2xl font-semibold">
           PowerUp Promo Top Up!⚡
         </h3>
-        <div className="grid grid-cols-4 gap-5 relative -sm:grid-cols-2 -sm:spacing-x-0 -sm:relative">
-          <div className="w-[250px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary -sm:w-[100px] -sm:h-[90px] -sm:rounded-sm">
+        <p className="mt-2 pb-7 text-sm font-normal text-bodyText pr-72">
+          Nikmati berbagai promo menarik yang kami tawarkan untuk pengalaman
+          top-up yang lebih hemat dan seru! <br /> Dapatkan diskon besar, bonus item,
+          dan penawaran eksklusif untuk game favorit Anda.
+        </p>
+        <div className="flex flex-wrap gap-5 relative">
+          <div className="max-w-[250px] min-w-[200px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary  -sm:rounded-sm">
             <Image src={MobileLegends} alt="ML" className="static" />
             <div className="m-4">
-              <p className="text-wrap text-[13px] text-bodyText font-normal" id="spacing">
+              <p
+                className="text-wrap text-[13px] text-bodyText font-normal overflow-auto"
+                id="spacing"
+              >
                 Top Up 100 Diamond <br /> Mobile Legends
               </p>
               <div className="flex items-end">
-                <h3 className="text-base text-white font-semibold mt-2">Rp20.000</h3>
+                <h3 className="text-base text-white font-semibold mt-2">
+                  Rp20.000
+                </h3>
                 <h3 className="text-sm font-normal text-inactiveText line-through ml-2">
                   Rp40.000
                 </h3>
               </div>
             </div>
           </div>
-          <div className="w-[250px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary -sm:w-[100px] -sm:h-[90px] -sm:rounded-sm">
+          <div className="w-[250px] min-w-[200px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary  -sm:rounded-sm">
             <Image src={MobileLegends} alt="ML" className="static" />
             <div className="m-4">
-              <p className="text-wrap text-[13px] text-bodyText font-normal" id="spacing">
+              <p
+                className="text-wrap text-[13px] text-bodyText font-normal"
+                id="spacing"
+              >
                 Top Up 100 Diamond <br /> Mobile Legends
               </p>
               <div className="flex items-end">
-                <h3 className="text-base text-white font-semibold mt-2">Rp20.000</h3>
+                <h3 className="text-base text-white font-semibold mt-2">
+                  Rp20.000
+                </h3>
                 <h3 className="text-sm font-normal text-inactiveText line-through ml-2">
                   Rp40.000
                 </h3>
               </div>
             </div>
           </div>
-          <div className="w-[250px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary -sm:w-[100px] -sm:h-[90px] -sm:rounded-sm">
+          <div className="w-[250px] min-w-[200px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary  -sm:rounded-sm">
             <Image src={MobileLegends} alt="ML" className="static" />
             <div className="m-4">
-              <p className="text-wrap text-[13px] text-bodyText font-normal" id="spacing">
+              <p
+                className="text-wrap text-[13px] text-bodyText font-normal"
+                id="spacing"
+              >
                 Top Up 100 Diamond <br /> Mobile Legends
               </p>
               <div className="flex items-end">
-                <h3 className="text-base text-white font-semibold mt-2">Rp20.000</h3>
+                <h3 className="text-base text-white font-semibold mt-2">
+                  Rp20.000
+                </h3>
                 <h3 className="text-sm font-normal text-inactiveText line-through ml-2">
                   Rp40.000
                 </h3>
               </div>
             </div>
           </div>
-          <div className="w-[250px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary -sm:w-[100px] -sm:h-[90px] -sm:rounded-sm">
+          <div className="w-[250px] min-w-[200px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary  -sm:rounded-sm">
             <Image src={MobileLegends} alt="ML" className="static" />
             <div className="m-4">
-              <p className="text-wrap text-[13px] text-bodyText font-normal" id="spacing">
+              <p
+                className="text-wrap text-[13px] text-bodyText font-normal"
+                id="spacing"
+              >
                 Top Up 100 Diamond <br /> Mobile Legends
               </p>
               <div className="flex items-end">
-                <h3 className="text-base text-white font-semibold mt-2">Rp20.000</h3>
+                <h3 className="text-base text-white font-semibold mt-2">
+                  Rp20.000
+                </h3>
                 <h3 className="text-sm font-normal text-inactiveText line-through ml-2">
                   Rp40.000
                 </h3>
               </div>
             </div>
           </div>
-          <div className="w-[250px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary -sm:w-[100px] -sm:h-[90px] -sm:rounded-sm">
+          <div className="w-[250px] min-w-[200px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary  -sm:rounded-sm">
             <Image src={MobileLegends} alt="ML" className="static" />
             <div className="m-4">
-              <p className="text-wrap text-[13px] text-bodyText font-normal" id="spacing">
+              <p
+                className="text-wrap text-[13px] text-bodyText font-normal"
+                id="spacing"
+              >
                 Top Up 100 Diamond <br /> Mobile Legends
               </p>
               <div className="flex items-end">
-                <h3 className="text-base text-white font-semibold mt-2">Rp20.000</h3>
+                <h3 className="text-base text-white font-semibold mt-2">
+                  Rp20.000
+                </h3>
                 <h3 className="text-sm font-normal text-inactiveText line-through ml-2">
                   Rp40.000
                 </h3>
               </div>
             </div>
           </div>
-          <div className="w-[250px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary -sm:w-[100px] -sm:h-[90px] -sm:rounded-sm">
+          <div className="w-[250px] min-w-[200px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary  -sm:rounded-sm">
             <Image src={MobileLegends} alt="ML" className="static" />
             <div className="m-4">
-              <p className="text-wrap text-[13px] text-bodyText font-normal" id="spacing">
+              <p
+                className="text-wrap text-[13px] text-bodyText font-normal"
+                id="spacing"
+              >
                 Top Up 100 Diamond <br /> Mobile Legends
               </p>
               <div className="flex items-end">
-                <h3 className="text-base text-white font-semibold mt-2">Rp20.000</h3>
+                <h3 className="text-base text-white font-semibold mt-2">
+                  Rp20.000
+                </h3>
                 <h3 className="text-sm font-normal text-inactiveText line-through ml-2">
                   Rp40.000
                 </h3>
               </div>
             </div>
           </div>
-          <div className="w-[250px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary -sm:w-[100px] -sm:h-[90px] -sm:rounded-sm">
+          <div className="w-[250px] min-w-[200px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary  -sm:rounded-sm">
             <Image src={MobileLegends} alt="ML" className="static" />
             <div className="m-4">
-              <p className="text-wrap text-[13px] text-bodyText font-normal" id="spacing">
+              <p
+                className="text-wrap text-[13px] text-bodyText font-normal"
+                id="spacing"
+              >
                 Top Up 100 Diamond <br /> Mobile Legends
               </p>
               <div className="flex items-end">
-                <h3 className="text-base text-white font-semibold mt-2">Rp20.000</h3>
+                <h3 className="text-base text-white font-semibold mt-2">
+                  Rp20.000
+                </h3>
                 <h3 className="text-sm font-normal text-inactiveText line-through ml-2">
                   Rp40.000
                 </h3>
               </div>
             </div>
           </div>
-          <div className="w-[250px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary -sm:w-[100px] -sm:h-[90px] -sm:rounded-sm">
+          <div className="w-[250px] min-w-[200px] h-[215px] bg-customSecondary rounded-2xl relative outline-none hover:outline-offset-0 hover:outline-[3px] hover:outline-customPrimary  -sm:rounded-sm">
             <Image src={MobileLegends} alt="ML" className="static" />
             <div className="m-4">
-              <p className="text-wrap text-[13px] text-bodyText font-normal" id="spacing">
+              <p
+                className="text-wrap text-[13px] text-bodyText font-normal"
+                id="spacing"
+              >
                 Top Up 100 Diamond <br /> Mobile Legends
               </p>
               <div className="flex items-end">
-                <h3 className="text-base text-white font-semibold mt-2">Rp20.000</h3>
+                <h3 className="text-base text-white font-semibold mt-2">
+                  Rp20.000
+                </h3>
                 <h3 className="text-sm font-normal text-inactiveText line-through ml-2">
                   Rp40.000
                 </h3>

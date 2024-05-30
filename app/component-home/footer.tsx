@@ -55,7 +55,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="mt-[70px]">
-          <hr className="border-[1px] mb-[32px] w-full flex items-center mx-auto border-customSecondary"></hr>
+          <hr className="border-[1px] mb-[32px] w-full flex items-center mx-auto border-bodyText"></hr>
           <div className="flex flex-row mb-[32px]">
             <p className="font-medium text-xs text-inactiveText content-center">
               © 2024 PowerUp — All rights reserved.

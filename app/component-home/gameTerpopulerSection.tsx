@@ -6,18 +6,20 @@ import PUBGM from "./assets/PowerUp - UI - GamePopuler/Rectangle 748.svg";
 import LeagueOfLegends from "./assets/PowerUp - UI - GamePopuler/Rectangle 749.svg";
 import ClashOfClans from "./assets/PowerUp - UI - GamePopuler/Rectangle 750.svg";
 
-
 export default function GameTerpopulerSection() {
   return (
     <>
       <div className="mx-36">
         <h3 className="text-white text-2xl font-bold pb-3">
-          Game Terpopuler🔥
+          Tersedia Pilihan Game Terpopuler! 🔥
         </h3>
-        <p className="text-white text-sm pb-[32px]">
-          Top Up Item di Game Favoritmu!
+        <p className="mt-2 pb-6 text-sm font-normal text-bodyText pr-72">
+          Kami menyediakan daftar game-game yang sedang tren dan paling banyak
+          diminati oleh para gamer. <br /> Temukan berbagai judul game yang
+          menghibur, penuh tantangan, dan memberikan pengalaman bermain yang
+          seru.
         </p>
-        <div className="flex flex-start content-start flex-wrap gap-x-5 gap-y-[11px]">
+        <div className="flex flex-wrap gap-x-5 gap-y-[11px]">
           <a href="../mobile-legends">
             <div className="w-[340px] h-[180px] relative">
               <h1 className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 mt-[47px] text-white font-bold tracking-wide text-md">
